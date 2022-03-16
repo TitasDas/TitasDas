@@ -3,7 +3,6 @@
 - 🔭 I’m currently refining my hand at particular tasks in the domain of Natural language processing such as : **
 - 👯 I’m looking to collaborate on the project * . Broadly my areas of interest(and ability to contribute) span across domains such as classical machine learning, deep learning, natural language processing, computer vision, topology and computational neuroscience.
 - 📫 You can reach me at: titas.das@gmail.com 
-- ⚡ Fun fact: I wrote poems and short anecdotal notes in a diary rougly within the context of life and philosophy as a child that the adult version of me finds instructional and keeps going back to from time to time.   
 
 
 <!--
