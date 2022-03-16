@@ -1,7 +1,7 @@
 ### Hi, I'm titash 👋
 
 - 🔭 I’m currently refining my hand at the following
-  * **Natural language processing** such as : ***entity linking, relation extraction, semantic evaluation***
+  * **Natural language processing** such as : entity linking, relation extraction, semantic evaluation
   * **Recommendation systems** : Pertaining to the fashion industry
 - 👯 I’m looking to collaborate on the project * . Broadly my areas of interest(and ability to contribute) span across domains such as ***classical machine learning, deep learning, natural language processing, computer vision, topology and computational neuroscience.***
 - 📫 You can reach me at: titas.das@gmail.com  
