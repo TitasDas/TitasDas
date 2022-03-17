@@ -1,6 +1,6 @@
 ### Hi, I'm titash 👋
 
-- 🔭 I’m currently refining my craft by practicing the following
+- 🔭 I’m currently refining my craft by working on
   * **Natural language processing** such as : entity linking, relation extraction, semantic evaluation
   * **Recommendation systems** : Pertaining to the fashion industry
 - 👯 I’m looking to collaborate on the project [Tinytots](https://github.com/TitasDas/Tinytots) . Every now and then also try to fix issues and contribute to [Giveme5W1H](https://github.com/fhamborg/Giveme5W1H). 
