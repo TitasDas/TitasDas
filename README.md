@@ -5,7 +5,7 @@
   * **Recommendation systems** pertaining to the fashion industry. Mainly experimenting with various optimizations and feedback mechanisms.
 - 👯 I’m looking to collaborate on the project [Tinytots](https://github.com/TitasDas/Tinytots) . Every now and then also try to fix issues and contribute to [Giveme5W1H](https://github.com/fhamborg/Giveme5W1H). 
 - 🌱 Broadly my areas of interest(and ability to contribute) span across domains such as ***classical machine learning, deep learning, natural language processing, computer vision, topology and computational neuroscience.***
-- 📫 You can reach me at: titas.das@gmail.com  
+- 📫 You can reach me at: titas.das+gh@gmail.com  
 
 
 
