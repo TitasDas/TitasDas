@@ -3,6 +3,7 @@
 - 🔭 I’m currently refining my craft by working on
   * **Natural language processing** tasks such as : entity linking, relation extraction, semantic evaluation
   * **Recommendation systems** pertaining to the fashion industry. Mainly experimenting with various optimizations and feedback mechanisms.
+  * **Sleep science** detecting and predicting bodily conditions based on biosignals recorded while a person sleeps. 
 - 👯 I’m looking to collaborate on the project [Tinytots](https://github.com/TitasDas/Tinytots) . Every now and then also try to fix issues and contribute to [Giveme5W1H](https://github.com/fhamborg/Giveme5W1H). 
 - 🌱 Broadly my areas of interest(and ability to contribute) span across domains such as ***classical machine learning, deep learning, natural language processing, computer vision, topology and computational neuroscience.***
 - 📫 You can reach me at: titas.das+gh@gmail.com  
