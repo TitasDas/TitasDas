@@ -19,7 +19,7 @@ You can take a look at my **updated resume** [here](https://drive.google.com/fil
 
 
 
-- ⚡ Fun fact: I got tired of cooking and how much time it took away from my life everyday while in grad school and built a [robot](https://sites.google.com/site/jullienor2014/homepage) to cut/chop vegetables (*no fancy cuts*). A few years into life, I now find cleaning and cooking therapeutic.
+- ⚡ Fun fact: I got tired of cooking and the mundane everyday routine it involved while in grad school and built a [robot](https://sites.google.com/site/jullienor2014/homepage) to cut/chop vegetables (*no fancy cuts*). A few years into life, I now find cleaning and cooking therapeutic.
 
 
 
