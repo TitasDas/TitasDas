@@ -4,7 +4,7 @@
   * **Natural language processing** tasks such as : entity linking, relation extraction, semantic evaluation pertaining to fairy tales
   * **Price modelling** tasks such as adjusting pricing/developing pricing models for marketplaces.
 
--🔭 Trying my hand at writing product proposals and implementation plans to train towards being a **Product Manager**.
+- 🔭 Trying my hand at writing product proposals and implementation plans to train towards being a **Product Manager**.
 
 - 🔭 I have previously worked on 
   * **Recommendation systems** pertaining to the fashion industry. Experimenting with various optimizations and feedback mechanisms.
