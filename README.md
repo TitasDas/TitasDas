@@ -10,7 +10,7 @@
   * **Recommendation systems** pertaining to the fashion industry. Experimenting with various optimizations and feedback mechanisms.
   * **Sleep science** detecting and predicting bodily conditions based on biosignals recorded while a person sleeps. 
 
-You can take a look at my **updated resume** [here](https://drive.google.com/file/d/1wQeebpEv4eosvb10kPr33BQvYQSPUKeK/view?usp=sharing)
+- You can take a look at my **updated resume** [here](https://drive.google.com/file/d/1wQeebpEv4eosvb10kPr33BQvYQSPUKeK/view?usp=sharing)
 
 - 👯 I’m looking to collaborate on the project [Tinytots](https://github.com/TitasDas/Tinytots) . Every now and then also try to fix issues and contribute to [Giveme5W1H](https://github.com/fhamborg/Giveme5W1H). 
 - 🌱 Broadly my areas of interest(and ability to contribute) span across domains such as ***classical machine learning, deep learning, natural language processing, computer vision, topology and computational neuroscience , product strategy and feature/product ideation***
