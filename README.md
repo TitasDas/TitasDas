@@ -11,7 +11,7 @@
 - You can take a look at my **updated resume** [here](https://drive.google.com/file/d/1wQeebpEv4eosvb10kPr33BQvYQSPUKeK/view?usp=sharing)
 
 - 👯 I’m looking to collaborate on the project [Tinytots](https://github.com/TitasDas/Tinytots) . Every now and then also try to fix issues and contribute to [Giveme5W1H](https://github.com/fhamborg/Giveme5W1H). 
-- 🌱 Broadly my areas of interest(and ability to contribute) span across domains such as ***classical machine learning, deep learning, natural language processing, computer vision, topology and computational neuroscience.*** My experience with multiple startups and working as an AI/ML consultant has allowed me to cultivate a talent for shaping ***product strategies*** and contributing to the ***conception of new product features ***
+- 🌱 Broadly my areas of interest(and ability to contribute) span across domains such as ***classical machine learning, deep learning, natural language processing, computer vision, topology and computational neuroscience.*** My experience with multiple startups and working as an AI/ML consultant has allowed me to cultivate a talent for shaping ***product strategies*** and contributing to the ***conception of new product features***
 - 📫 You can reach me at: titas.das+gh@gmail.com  
 
 
