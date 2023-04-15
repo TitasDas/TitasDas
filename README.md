@@ -1,7 +1,8 @@
 ### Hi, I'm titash 👋
 
 - 🔭 I’m currently refining my craft by working on 
-  * Building customised/adaptive learning systems for users interested in learning programming and computer science.  
+  * Building customised/adaptive systems for users interested in learning programming and computer science.  
+  * Exploring and excited about everything ChatGPT has made possible - in particular - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
 - 🔭 I have previously worked on 
   * **Recommendation systems** pertaining to the fashion industry. Experimenting with various optimizations and feedback mechanisms.
