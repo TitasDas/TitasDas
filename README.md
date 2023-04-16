@@ -1,7 +1,7 @@
 ### Hi, I'm titash 👋
 
 - 🔭 I’m currently refining my craft by working on 
-  * Intelligent, adaptive systems that empower learners to master programming and computer science concepts, paving their way to a rewarding tech career.  
+  * **Intelligent, adaptive systems** that empower learners to master programming and computer science concepts, paving their way to a rewarding tech career.  
   * Everything in the **generative AI** space - in particular - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
 - 🔭 I have previously worked on 
