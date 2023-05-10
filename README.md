@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently refining my craft by working on 
   * **Intelligent, adaptive systems** that empower learners to master programming and computer science concepts, paving their way to a rewarding tech career.  
-  * Exploring everything in the **generative AI** space - in particular - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [Open Assistant](https://github.com/LAION-AI/Open-Assistant)
+  * Exploring everything in the **generative AI** space with a special focus on open source projects - in particular - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [Open Assistant](https://github.com/LAION-AI/Open-Assistant)
 
 - 🔭 I have previously worked on 
   * **Recommendation systems** pertaining to the fashion industry. Experimenting with various optimizations and feedback mechanisms.
