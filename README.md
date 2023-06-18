@@ -1,4 +1,4 @@
-### Hi, I'm titash 👋
+<h2> Hi, I'm titash 👋 </h2>
 
 - 🔭 I’m currently refining my craft by working on 
   * **Intelligent, adaptive systems** that empower learners to master programming and computer science concepts
