@@ -1,4 +1,4 @@
-<h2> Hi, I'm titash <img src="https://tenor.googleapis.com/v2/media?id=11102468890505013613&format=optimizedgif&client_key=tenor_web&appversion=browser-r20230614-2&access_token=ya29.a0AWY7CkmGbD4zY7-vjOcAEzg0aNLuN4sIEvxEGd66uXtmLDufsLph1UXLxpnwFZO5KgkLo7CxF7E3cZTgS6uDZfrCRhqIHDbgDWDxrxeSwOhJoiRlJMLAwcOTVFsZle8HPPCtAGgK5Ef1noBYJjcNNvRS120uaCgYKAZcSARASFQG1tDrp8NLWXhYZQ_s8812YZkoMfw0163&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8" width="50" </h2>
+<h2> Hi, I'm titash <img src="https://tenor.googleapis.com/v2/media?id=11102468890505013613&format=optimizedgif&client_key=tenor_web&appversion=browser-r20230614-2&access_token=ya29.a0AWY7CkmGbD4zY7-vjOcAEzg0aNLuN4sIEvxEGd66uXtmLDufsLph1UXLxpnwFZO5KgkLo7CxF7E3cZTgS6uDZfrCRhqIHDbgDWDxrxeSwOhJoiRlJMLAwcOTVFsZle8HPPCtAGgK5Ef1noBYJjcNNvRS120uaCgYKAZcSARASFQG1tDrp8NLWXhYZQ_s8812YZkoMfw0163&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8" width="200" </h2>
 
 - 🔭 I’m currently refining my craft by working on 
   * **Intelligent, adaptive systems** that empower learners to master programming and computer science concepts
