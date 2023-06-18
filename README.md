@@ -1,4 +1,4 @@
-<h2>Hi, I'm titash <img src="<div class="tenor-gif-embed" data-postid="11102468890505013613" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/horcrux-magic-key-gif-11102468890505013613">Horcrux Magic Key GIF</a>from <a href="https://tenor.com/search/horcrux-gifs">Horcrux GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="50"></h2> 
+<h2>Hi, I'm titash <img src="https://tenor.com/view/horcrux-magic-key-gif-11102468890505013613" width="50"></h2> 
 
 - 🔭 I’m currently refining my craft by working on 
   * **Intelligent, adaptive systems** that empower learners to master programming and computer science concepts
