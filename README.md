@@ -1,4 +1,4 @@
-### Hi, I'm titash <img src="https://tenor.com/view/horcrux-magic-key-gif-11102468890505013613" width="200"
+<h2>Hi, I'm titash <img src="https://tenor.com/view/horcrux-magic-key-gif-11102468890505013613" width="200"></h2> 
 
 - 🔭 I’m currently refining my craft by working on 
   * **Intelligent, adaptive systems** that empower learners to master programming and computer science concepts
