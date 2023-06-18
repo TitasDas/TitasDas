@@ -1,4 +1,4 @@
-<h2>Hi, I'm titash <img src="https://s11.gifyu.com/images/SQToH.gif" width="80"></h2> 
+<h2>Hi, I'm titash <img src="https://s11.gifyu.com/images/SQToH.gif" width="100"></h2> 
 
 - 🔭 I’m currently refining my craft by working on 
   * **Intelligent, adaptive systems** that empower learners to master programming and computer science concepts
