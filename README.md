@@ -1,14 +1,13 @@
 <h2>Hi, I'm titash <img src="https://s11.gifyu.com/images/SQToH.gif" width="100"></h2> 
 
-- I’m currently refining my craft by working on 
-  * **Intelligent, adaptive systems** that empower learners to master programming and computer science concepts
-  * Exploring everything in the **generative AI** space with a special focus on open source projects - in particular - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [Open Assistant](https://github.com/LAION-AI/Open-Assistant)
 
 - I have previously worked on 
   * **Recommendation systems** pertaining to the fashion industry. Experimenting with various optimizations and feedback mechanisms.
   * **Sleep science** detecting and predicting bodily conditions based on biosignals recorded while a person sleeps.
   * **Price modelling** tasks such as adjusting pricing/developing pricing models for marketplaces. 
   * **Natural language processing** tasks such as : entity linking, relation extraction, semantic evaluation pertaining to fairy tales
+  * **Intelligent, adaptive systems** that empower learners to master programming and computer science concepts
+  * Exploring everything in the **generative AI** space with a special focus on open source projects - in particular - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [Open Assistant](https://github.com/LAION-AI/Open-Assistant)
 
 - You can find my updated resume [here](https://drive.google.com/file/d/1mg-NIoH6mSy1pY4gpwvzfkX4O5vbnJem/view?usp=sharing).
 
