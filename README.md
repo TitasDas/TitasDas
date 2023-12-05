@@ -1,4 +1,4 @@
-<h2>Hi, I'm titash <img src="https://i.imgur.com/Z2P2ueW.gif" width="100"></h2> 
+<h2>Hi, I'm titash <img src="https://i.imgur.com/Z2P2ueW.gif" width="300"></h2> 
 
 
 - I have previously worked on 
