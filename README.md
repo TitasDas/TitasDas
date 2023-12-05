@@ -1,4 +1,4 @@
-## Hi, I'm Titash ![Titash's GIF](https://i.imgur.com/Z2P2ueW.gif)
+<h2>Hi, I'm Titash <img src="https://s11.gifyu.com/images/SQToH.gif" width="100"></h2>
 
 
 - I have previously worked on 
