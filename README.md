@@ -6,7 +6,7 @@
   * **Sleep science** detecting and predicting bodily conditions based on biosignals recorded while a person sleeps.
   * **Price modelling** tasks such as adjusting pricing/developing pricing models for marketplace based businesses Eg: Uber (service oriented marketplace), Amazon (Ecommerce oriented marketplace). 
   * **Natural language processing** tasks such as : entity linking, relation extraction, semantic evaluation pertaining to fairy tales
-  * **Intelligent, adaptive systems** that empowers learners to master programming and computer science concepts.
+  * **Building intelligent, adaptive systems** 
 
 - You can find my updated resume [here](https://drive.google.com/file/d/1mg-NIoH6mSy1pY4gpwvzfkX4O5vbnJem/view?usp=sharing).
 
