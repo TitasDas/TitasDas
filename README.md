@@ -1,7 +1,7 @@
 <h2>Hi, I'm Titash <img src="https://s11.gifyu.com/images/SQToH.gif" width="100"></h2>
 
 
-- I have previously worked on 
+- Examples of areas where I have been able to contribute in the past are : 
   * **Recommendation systems** pertaining to luxury and fast fashion products, food and entertainment. 
   * **Sleep science** detecting and predicting bodily conditions based on biosignals recorded while a person sleeps.
   * **Price modelling** tasks such as adjusting pricing/developing pricing models for marketplace based businesses Eg: Uber (service oriented marketplace), Amazon (Ecommerce oriented marketplace). 
