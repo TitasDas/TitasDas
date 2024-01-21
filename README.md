@@ -18,6 +18,11 @@
 
 <img src="https://ibb.co/kGNWBp6" width="400"/>
 
+<a href="https://ibb.co/kGNWBp6">
+    <img src="https://i.ibb.co/QJy1QZj/joy-wtih-painting-21st-jan-dynamic.jpg" alt="Joy with Painting" width="150" />
+</a>
+
+
 
 
 
