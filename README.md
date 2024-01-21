@@ -16,7 +16,9 @@
 
 - **Fun fact**: I got tired of cooking and the mundane everyday routine it involved while in grad school and built a [robot](https://sites.google.com/site/jullienor2014/homepage) to cut/chop vegetables (*no fancy cuts*). A few years into life, I now find cleaning and cooking therapeutic.
 
-<img src="https://i.imgur.com/Z2P2ueW.gif" alt="GIF not found" width="400"/>
+<img src="https://ibb.co/kGNWBp6" width="400"/>
+
+
 
 
 
