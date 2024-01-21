@@ -21,7 +21,7 @@
     <img src="https://i.ibb.co/QJy1QZj/joy-wtih-painting-21st-jan-dynamic.jpg" alt="Joy with Painting" width="150" />
 </a>
 <a href="https://ibb.co/s5Wvy0B">
-    <img src="https://i.ibb.co/WDVWgbT/DALL-E-2024-01-22-02-30-32-Create-a-digital-image-of-a-serene-landscape-painting-featuring-a-twiligh.png" alt="Serene Landscape Painting" width="150" />
+    <img src="https://i.ibb.co/WDVWgbT/DALL-E-2024-01-22-02-30-32-Create-a-digital-image-of-a-serene-landscape-painting-featuring-a-twiligh.png" alt="Serene Landscape Painting" width="150" height="100" />
 </a>
 
 
