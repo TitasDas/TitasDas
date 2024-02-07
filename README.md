@@ -1,5 +1,6 @@
 <h2>Hi, I'm Titash <img src="https://s11.gifyu.com/images/SQToH.gif" width="100"></h2>
 
+- Currently working on RAG based chatbots.
 
 - Examples of areas/domains where I have been able to contribute in the past are : 
   * **Recommendation systems** pertaining to luxury and fast fashion products, food and entertainment. 
