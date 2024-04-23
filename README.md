@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://ibb.co/bHnTpJB">
-    <img src="https://i.ibb.co/cbd0zLF/Adobe-Scan-23-Apr-2024-3.jpg" alt="Adobe-Scan-23-Apr-2024-3" width="120" height="84" />
+    <img src="https://i.ibb.co/cbd0zLF/Adobe-Scan-23-Apr-2024-3.jpg" alt="Adobe-Scan-23-Apr-2024-3" width="84" height="120" />
 </a>
 
 
