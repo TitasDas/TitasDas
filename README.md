@@ -8,8 +8,8 @@
   * **Price modelling** tasks such as adjusting pricing/developing pricing models for marketplace based businesses Eg: Uber (service oriented marketplace), Amazon (Ecommerce oriented marketplace), Rover (Specialty marketplace). 
   * **Natural language processing** tasks such as : entity linking, relation extraction, semantic evaluation pertaining to fairy tales
   * **Building intelligent, adaptive systems** 
-
-- You can find my updated resume as of February 2023 [here](https://drive.google.com/file/d/1mg-NIoH6mSy1pY4gpwvzfkX4O5vbnJem/view?usp=sharing).
+<!--
+- You can find my updated resume as of February 2023 [here](https://drive.google.com/file/d/1mg-NIoH6mSy1pY4gpwvzfkX4O5vbnJem/view?usp=sharing). -->
 - Your AI partner through [ImplantAI](https://implantintelligence.com)
 
 - I’m looking to collaborate on the project [Tinytots](https://github.com/TitasDas/Tinytots) . Every now and then also try to fix issues and contribute to [Giveme5W1H](https://github.com/fhamborg/Giveme5W1H). 
