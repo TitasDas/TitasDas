@@ -9,8 +9,8 @@
   * **Natural language processing** tasks such as : entity linking, relation extraction, semantic evaluation pertaining to fairy tales
   * **Building intelligent, adaptive systems** 
 <!--
-- You can find my updated resume as of February 2023 [here](https://drive.google.com/file/d/1mg-NIoH6mSy1pY4gpwvzfkX4O5vbnJem/view?usp=sharing). -->
-- Your AI partner through [Invisible](https://www.invisible.co/) and [Implant Intelligence](https://implantintelligence.godaddysites.com/)
+- You can find my updated resume as of February 2023 [here](https://drive.google.com/file/d/1mg-NIoH6mSy1pY4gpwvzfkX4O5vbnJem/view?usp=sharing). 
+- Your AI partner through [Invisible](https://www.invisible.co/) and [Implant Intelligence](https://implantintelligence.godaddysites.com/) -->
 <!--
 - I’m looking to collaborate on the project [Tinytots](https://github.com/TitasDas/Tinytots) . Every now and then also try to fix issues and contribute to [Giveme5W1H](https://github.com/fhamborg/Giveme5W1H). -->
 - Broadly my areas of interest(and ability to contribute) span across domains such as ***classical machine learning, deep learning, natural language processing, computer vision, topology and computational neuroscience.*** My experience with multiple startups and working as an AI/ML consultant has allowed me to cultivate a talent for shaping ***product strategies*** and contributing to the ***conception of new product features***
