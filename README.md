@@ -1,13 +1,14 @@
 <h2>Hi, I'm Titash <img src="https://s11.gifyu.com/images/SQToH.gif" width="100"></h2>
 
-- Currently working on Retrieval Augmented Generation. 
+- Currently working on LLM based autonomous agents. 
 
 - Examples of areas/domains where I have been able to contribute in the past are : 
   * **Recommendation systems** pertaining to luxury and fast fashion products, food and entertainment. 
   * **Sleep science** detecting and predicting bodily conditions based on biosignals recorded while a person sleeps.
   * **Price modelling** tasks such as adjusting pricing/developing pricing models for marketplace based businesses Eg: Uber (service oriented marketplace), Amazon (Ecommerce oriented marketplace), Rover (Specialty marketplace). 
   * **Natural language processing** tasks such as : entity linking, relation extraction, semantic evaluation pertaining to fairy tales
-  * **Building intelligent, adaptive systems** 
+  * **Building intelligent, adaptive systems**
+  * **Retrieval Augmented Generation** : ingestion optimization using knowledge graphs and metadata, retrieval and generation optimization techniques including small to big retrieval and others highlighted in the llamaindex framework, decision making around embeddings and appropriate distance metrics, extending RAGs to RAG agentic abilities. 
 <!--
 - You can find my updated resume as of February 2023 [here](https://drive.google.com/file/d/1mg-NIoH6mSy1pY4gpwvzfkX4O5vbnJem/view?usp=sharing). 
 - Your AI partner through [Invisible](https://www.invisible.co/) and [Implant Intelligence](https://implantintelligence.godaddysites.com/) -->
