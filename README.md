@@ -1,4 +1,4 @@
-<h2>Hi, I'm Titash <img src="https://gifyu.com/image/SyF8j.gif" width="100"></h2>
+<h2>Hi, I'm Titash <img src="https://tenor.com/en-CA/view/horcrux-magic-key-gif-11102468890505013613" width="100"></h2>
 
 - Currently working on LLM based autonomous agents. 
 
