@@ -1,4 +1,4 @@
-<h2>Hi, I'm Titash <img src="https://gifyu.com/image/SyF8j" width="50"></h2>
+<h2>Hi, I'm Titash <img src="https://gifyu.com/image/SyF8j.gif" width="50"></h2>
 
 - Currently working on LLM based autonomous agents. 
 
