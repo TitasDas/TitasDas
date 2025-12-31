@@ -1,6 +1,6 @@
 <h2>Hi, I'm Titash <img src="https://s11.gifyu.com/images/SGbuh.gif" width="80"></h2>
 
-- In one sentence, I am a software engineer who likes to build software that either brings you joy, inspires an action or is useful to you in some way.  
+- I'm a software engineer who loves building apps that make life a little more fun, help you learn something new, or just make things easier as you go about your day. Maybe make you think more than scroll.  
 
 - Examples of areas/domains where I have been able to contribute in the past are : 
   * **Recommendation systems** pertaining to luxury and fast fashion products, food and entertainment. 
