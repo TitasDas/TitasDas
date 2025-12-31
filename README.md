@@ -1,4 +1,4 @@
-<h2>Hi, I'm Titash <img src="https://tenor.com/en-CA/view/horcrux-magic-key-gif-11102468890505013613" width="100"></h2>
+<h2>Hi, I'm Titash <img src="https://media1.tenor.com/m/mhPkoexgaW0AAAAC/horcrux-magic-key.gif" width="100"></h2>
 
 - I'm a software engineer who loves building apps that make life a little more fun, help you learn something new, or just make things easier as you go about your day. Maybe even make you think.  
 
