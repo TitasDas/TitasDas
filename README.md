@@ -1,5 +1,7 @@
 <h2>Hi, I'm Titash <img src="https://s11.gifyu.com/images/SGbuh.gif" width="80"></h2>
 
+- In one sentence, I am a software engineer who likes to build software that either brings you joy, inspires an action or is useful to you in some way.  
+
 - Examples of areas/domains where I have been able to contribute in the past are : 
   * **Recommendation systems** pertaining to luxury and fast fashion products, food and entertainment. 
   * **Sleep science** detecting and predicting bodily conditions based on biosignals recorded while a person sleeps.
