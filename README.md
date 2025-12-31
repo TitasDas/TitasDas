@@ -1,4 +1,4 @@
-<h2>Hi, I'm Titash <img src="https://media1.tenor.com/m/mhPkoexgaW0AAAAC/horcrux-magic-key.gif" width="100"></h2>
+<h2>Hi, I'm Titash </h2>
 
 - I'm a software engineer who loves building apps that make life a little more fun, help you learn something new, or just make things easier as you go about your day. Maybe even make you think.  
 
@@ -20,6 +20,7 @@
 - You can reach me at: titas.das+gh@gmail.com  
 
 - **Fun fact**: I got tired of cooking and the mundane everyday routine it involved while in grad school and built a [robot](https://sites.google.com/site/jullienor2014/homepage) to cut/chop vegetables (*no fancy cuts*). A few years into life, I now find cleaning and cooking therapeutic.
+- <img src="https://media1.tenor.com/m/mhPkoexgaW0AAAAC/horcrux-magic-key.gif" width="100">
 
 
 <a href="https://ibb.co/kGNWBp6">
