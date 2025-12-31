@@ -1,6 +1,6 @@
 <h2>Hi, I'm Titash </h2>
 
-- Just built [Forced Move](https://forced-move.onrender.com/)
+- Just shipped [Forced Move](https://forced-move.onrender.com/), a calm-but-clever Tic-Tac-Toe remix (Adjacent Lock + Ultimate). Outsmart the constraints. 
 
 - I'm a software engineer who loves building apps that make life a little more fun, help you learn something new, or just make things easier as you go about your day. Maybe even make you think.  
 
