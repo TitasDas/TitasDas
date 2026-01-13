@@ -23,6 +23,8 @@
 
 - **Fun fact**: I got tired of cooking and the mundane everyday routine it involved while in grad school and built a [robot](https://sites.google.com/site/jullienor2014/homepage) to cut/chop vegetables (*no fancy cuts*). A few years into life, I now find cleaning and cooking therapeutic.
 
+- The images you see below are part of an ongoing experiment with multimodal LLMs around feature representation and understanding.
+
 <!-- <img src="https://media1.tenor.com/m/mhPkoexgaW0AAAAC/horcrux-magic-key.gif" width="90"> -->
 
 
