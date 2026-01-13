@@ -4,7 +4,7 @@
 
 - I'm a software engineer who loves building apps that make life a little more fun, help you learn something new, or just make things easier as you go about your day. Maybe even make you think.  
 
-- Examples of areas/domains where I have been able to contribute in the past are : 
+- Examples of areas/domains where I have been able to contribute in the past as a machine learning engineer are : 
   * **Recommendation systems** pertaining to luxury and fast fashion products, food and entertainment. 
   * **Sleep science** detecting and predicting bodily conditions based on biosignals recorded while a person sleeps.
   * **Price modelling** tasks such as adjusting pricing/developing pricing models for marketplace based businesses Eg: Uber (service oriented marketplace), Amazon (Ecommerce oriented marketplace), Rover (Specialty marketplace). 
