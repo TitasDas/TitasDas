@@ -18,12 +18,14 @@
 - Your AI partner through [Invisible](https://www.invisible.co/) and [Implant Intelligence](https://implantintelligence.godaddysites.com/) -->
 <!--
 - I’m looking to collaborate on the project [Tinytots](https://github.com/TitasDas/Tinytots) . Every now and then also try to fix issues and contribute to [Giveme5W1H](https://github.com/fhamborg/Giveme5W1H). -->
-- Broadly my areas of interest(and ability to contribute) span across domains such as ***classical machine learning, deep learning, natural language processing, computer vision, topology and computational neuroscience.*** Through experience across multiple startups and as a ***full-stack software engineer***, I have built ***complex ML systems*** and ***software platforms***, developing a strong aptitude for shaping ***product strategy*** and driving the conception of new product features.
+- My work centers on building robust software systems with end-to-end ownership, embedding machine learning from research through production when it meaningfully advances the product. With a research background in ***classical machine learning, deep learning, natural language processing, computer vision, topology, and computational neuroscience,*** I now operate primarily as a ***full-stack software and AI engineer***, delivering secure, scalable platforms with strong attention to usability and real-world effectiveness. More importantly, I believe that the field of software development is ever-evolving and take particular satisfaction in continuously learning, refining and expanding my craft.  
 - You can reach me at: titas.das+gh@gmail.com  
 
-- **Fun fact**: I got tired of cooking and the mundane everyday routine it involved while in grad school and built a [robot](https://sites.google.com/site/jullienor2014/homepage) to cut/chop vegetables (*no fancy cuts*). A few years into life, I now find cleaning and cooking therapeutic.
+- **Fun fact**: Once upon a time in grad school, cooking felt mundane enough that I built a [robot](https://sites.google.com/site/jullienor2014/homepage) to chop vegetables (*no fancy cuts*). Years later, I've come to find both cooking and cleaning oddly therapeutic. I've grown to appreciate everyday routines as interconnected systems that shape health and quality of life. 
 
-- The images below come from an ongoing experiment with multimodal LLMs, focused on how these models represent and interpret visual features and, just as importantly, a brief excuse to step away and paint, something I deeply enjoy.
+- I’ve grown increasingly interested in everyday environmental health, spending time understanding how dust and air pollution affect indoor spaces and how exposure can be reduced in practice. At the same time, I’ve been learning about the medicinal and biochemical properties of ingredients and bringing that knowledge into my cooking in a thoughtful, intentional way.
+
+- The images below come from an ongoing exploration of how multimodal LLMs interpret and represent visual features, paired with a more personal motivation: carving out time to paint, an activity I find both grounding and enjoyable.
 
 <!-- <img src="https://media1.tenor.com/m/mhPkoexgaW0AAAAC/horcrux-magic-key.gif" width="90"> -->
 
