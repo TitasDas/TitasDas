@@ -18,7 +18,7 @@
 - Your AI partner through [Invisible](https://www.invisible.co/) and [Implant Intelligence](https://implantintelligence.godaddysites.com/) -->
 <!--
 - I’m looking to collaborate on the project [Tinytots](https://github.com/TitasDas/Tinytots) . Every now and then also try to fix issues and contribute to [Giveme5W1H](https://github.com/fhamborg/Giveme5W1H). -->
-- Broadly my areas of interest(and ability to contribute) span across domains such as ***classical machine learning, deep learning, natural language processing, computer vision, topology and computational neuroscience.*** My experience with multiple startups and working as an AI/ML consultant has allowed me to cultivate a talent for shaping ***product strategies*** and contributing to the ***conception of new product features***
+- Broadly my areas of interest(and ability to contribute) span across domains such as ***classical machine learning, deep learning, natural language processing, computer vision, topology and computational neuroscience.*** Through experience across multiple startups and as a ***full-stack software engineer***, I have built ***complex ML systems*** and ***software platforms***, developing a strong aptitude for shaping ***product strategy*** and driving the conception of new product features.
 - You can reach me at: titas.das+gh@gmail.com  
 
 - **Fun fact**: I got tired of cooking and the mundane everyday routine it involved while in grad school and built a [robot](https://sites.google.com/site/jullienor2014/homepage) to cut/chop vegetables (*no fancy cuts*). A few years into life, I now find cleaning and cooking therapeutic.
