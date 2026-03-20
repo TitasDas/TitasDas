@@ -18,7 +18,7 @@
 <tr>
     <td valign="top" width="280">
       <a href="https://docuwise.streamlit.app/">
-        <img src="https://image.thum.io/get/width/800/noanimate/https://docuwise.streamlit.app/" width="260" />
+        <img src="https://raw.githubusercontent.com/TitasDas/docuwise-2/main/assets/docuwise-home.png" width="260" />
       </a>
     </td>
     <td valign="top">
