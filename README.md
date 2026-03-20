@@ -63,12 +63,12 @@
 
 ---
 
-## 👋 About
+##  About
 - I'm a software engineer who loves building apps that make life a little more fun, help you learn something new, or just make things easier as you go about your day. Maybe even make you think.  
 
 ---
 
-## 🧭 Areas I’ve Worked In (Machine Learning Engineering and Software Engineering)
+##  Areas I’ve Worked In (Machine Learning Engineering and Software Engineering)
 - Examples of areas/domains where I have been able to contribute in the past as a machine learning engineer are : 
   * **Recommendation systems** pertaining to luxury and fast fashion products, food and entertainment. 
   * **Sleep science** detecting and predicting bodily conditions based on biosignals recorded while a person sleeps.
