@@ -1,6 +1,6 @@
 <h2>Hi, I'm Titash </h2>
 
-## Built Projects
+## Utilities
 
 <table>
   <tr>
@@ -15,7 +15,7 @@
     </td>
   </tr>
 
-<tr>
+  <tr>
     <td valign="top" width="280">
       <a href="https://docuwise.streamlit.app/">
         <img src="https://raw.githubusercontent.com/TitasDas/docuwise-2/main/assets/docuwise-home.png" width="260" />
@@ -26,7 +26,11 @@
       Turns PDFs into a searchable knowledge base with question answering.
     </td>
   </tr>
+</table>
 
+## Games
+
+<table>
   <tr>
     <td valign="top" width="280">
       <a href="https://github.com/TitasDas/forced-move">
@@ -36,10 +40,14 @@
     <td valign="top">
       <a href="https://github.com/TitasDas/forced-move"><b>forced-move</b></a><br/>
       Strategy game where each move changes options for both players.<br/>
-        🎮 Play - <a href="https://forced-move.onrender.com/">Forced Move</a>
+      🎮 Play - <a href="https://forced-move.onrender.com/">Forced Move</a>
     </td>
   </tr>
+</table>
 
+## Testbeds / Proof of Concepts
+
+<table>
   <tr>
     <td valign="top" width="280">
       <a href="https://github.com/TitasDas/venuemeter-poc">
