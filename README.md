@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td valign="top" width="280">
-      <a href="https://github.com/TitasDas/wd-security-unlocker">
+      <a href="https://github.com/TitasDas/wd-hdd-unlocker">
         <img src="https://raw.githubusercontent.com/TitasDas/wd-security-unlocker/master/assets/screenshot-light-main.png" width="260" />
       </a>
     </td>
