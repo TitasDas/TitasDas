@@ -10,7 +10,7 @@
       </a>
     </td>
     <td valign="top">
-      <a href="https://github.com/TitasDas/wd-security-unlocker"><b>wd-security-unlocker</b></a><br/>
+      <a href="https://github.com/TitasDas/wd-hdd-unlocker"><b>wd-security-unlocker</b></a><br/>
       Linux desktop utility to unlock and mount compatible WD My Passport drives.
     </td>
   </tr>
