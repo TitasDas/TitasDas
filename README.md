@@ -64,7 +64,7 @@
 ---
 
 ##  About
-- I'm a software engineer who loves building apps that make life a little more fun, help you learn something new, or just make things easier as you go about your day. Maybe even make you think.  
+- I'm a software engineer who loves building to entertain, teach or for convenience. If my software encouraged or enabled concentrated thought in my users, that's an added bonus.  
 
 ---
 
