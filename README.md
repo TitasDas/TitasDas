@@ -5,6 +5,18 @@
 <table>
   <tr>
     <td valign="top" width="280">
+      <a href="https://github.com/TitasDas/mag-reader">
+        <img src="https://raw.githubusercontent.com/TitasDas/mag-reader/master/screenshots/desktop-dark.png" width="260" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/TitasDas/mag-reader"><b>Readstand</b></a><br/>
+      A calm reader for the magazines and blogs you follow: unified feeds, reader mode, highlights and notes with Markdown export. Chrome extension, installable PWA, and native Linux desktop app.
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="280">
       <a href="https://github.com/TitasDas/wd-hdd-unlocker">
         <img src="https://raw.githubusercontent.com/TitasDas/wd-security-unlocker/master/assets/screenshot-light-main.png" width="260" />
       </a>
