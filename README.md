@@ -89,7 +89,7 @@
   * **Building intelligent, adaptive systems** - These are now agentic systems or workflows. But the desire to automate is really old and there are several other ways an attempt to create adaptive systems can be made. If you ever take part in this pursuit,remember that the path towards this isn't necessarily imitating human form or level of intelligence. 
   * **Retrieval Augmented Generation** : ingestion optimization using knowledge graphs and metadata, retrieval and generation optimization techniques including small to big retrieval and others highlighted in the llamaindex framework, decision making around embeddings and appropriate distance metrics, extending RAGs to RAG agentic abilities. A popular investing firm and a couple of hedge funds once paid us a lot of money to build them a magical tool that could sort through an extremely large document base and enable them to do their due diligence and better portfolio management/optimization. It had its advantages but this definitely wasn't a replacement of someone who is able to connect various disjointed ideas and stare into a blank space and suddenly knows what to do. Mastery cannot be poorly imitated. 
   * **Text based Extraction using compound systems**: What's the sota score you can achieve in OCR? Does that model end up doing well in your specific business use case? I present to you a system that automatically adapts to your business case and will always give you better results than any sota model you use for OCR. 
-  * **Robotics and Embedded Systems** - My first love, for a time when I give into the physical constraints of my body. 
+  * **Robotics and Embedded Systems** - My first love, for a time when I give in to the physical constraints of my body. 
 
 ---
 
