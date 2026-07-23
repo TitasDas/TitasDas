@@ -11,7 +11,8 @@
     </td>
     <td valign="top">
       <a href="https://github.com/TitasDas/mag-reader"><b>Readstand</b></a><br/>
-      A calm reader for the magazines and blogs you follow: unified feeds, reader mode, highlights and notes with Markdown export. Chrome extension, installable PWA, and native Linux desktop app.
+      A calm reader for the magazines and blogs you follow: unified feeds, reader mode, highlights and notes with Markdown export. Chrome extension, installable PWA, and native Linux desktop app.<br/>
+      🧩 Install - <a href="https://chromewebstore.google.com/detail/readstand/bggncidfalfcdjalkidneaoccggnilne">Readstand on the Chrome Web Store</a>
     </td>
   </tr>
 
