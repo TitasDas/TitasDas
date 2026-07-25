@@ -24,7 +24,7 @@
     </td>
     <td valign="top">
       <a href="https://github.com/TitasDas/wd-hdd-unlocker"><b>wd-security-unlocker</b></a><br/>
-      Linux desktop utility to unlock and mount compatible Western Digital My Passport drives.
+      Linux desktop utility to unlock and mount compatible Western Digital My Passport drives because WD doesn't have their own app that allows you to lock/unlock on linux.
     </td>
   </tr>
 
