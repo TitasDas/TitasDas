@@ -77,7 +77,7 @@
 ---
 
 ##  About
-- I'm a software engineer who loves building to entertain, teach or for convenience. If my software encouraged or enabled concentrated thought in my users, that's an added bonus.  
+- I'm a software engineer who loves building to entertain, teach or for convenience. If my software encouraged or enabled concentrated thought in my users, that would be an added bonus.  
 
 ---
 
