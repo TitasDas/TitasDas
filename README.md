@@ -77,7 +77,10 @@
 ---
 
 ##  About
-- I'm a software engineer who loves building to entertain, teach or for convenience. If my software encouraged or enabled concentrated thought in my users, that would be an added bonus.  
+- ##  About
+- I'm a software engineer who essentially loves building to entertain or teach. If my software encouraged or enabled concentrated thought in my users, that would be an added bonus.
+- You can also ask me for software you'd like to have, through the [request form](https://implantintelligence.com/request).
+
 
 ---
 
