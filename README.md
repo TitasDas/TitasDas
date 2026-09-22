@@ -2,25 +2,25 @@
 
 ## Tools for focus
 
-<table>
+<table width="100%">
 <tr>
-    <td valign="top" align="center" width="230">
-      <a href="https://github.com/TitasDas/mag-reader"><img src="https://raw.githubusercontent.com/TitasDas/mag-reader/master/screenshots/desktop-dark.png" alt="Readstand with an article open in its dark reading view" width="220" /></a>
+    <td valign="top" align="center" width="30%">
+      <a href="https://github.com/TitasDas/mag-reader"><img src="https://raw.githubusercontent.com/TitasDas/mag-reader/master/screenshots/desktop-dark.png" alt="Readstand with an article open in its dark reading view" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/mag-reader">Readstand</a></h3>
-      <p>Read the sources you choose. Keep what you learn.<br/><br/>Follow magazines and blogs in one place. Highlight passages, take notes and export them to Markdown.<br/><br/>Available for Chrome, the web and Linux.</p>
-      <p><a href="https://chromewebstore.google.com/detail/readstand/bggncidfalfcdjalkidneaoccggnilne">Install from the Chrome Web Store</a></p>
+      <p>Follow your chosen magazines and blogs. Save highlights and notes to Markdown.<br/><br/>Chrome, web and Linux.</p>
+      <p><a href="https://chromewebstore.google.com/detail/readstand/bggncidfalfcdjalkidneaoccggnilne">Install for Chrome</a></p>
     </td>
   </tr>
 
   <tr>
-    <td valign="top" align="center" width="230">
-      <a href="https://github.com/TitasDas/desktop-drawer"><img src="https://raw.githubusercontent.com/TitasDas/desktop-drawer/main/packaging/desktop-drawer/screenshots/drawer-dark.png" alt="Desktop Drawer showing files and subfolders in the Cinnamon panel" width="170" /></a>
+    <td valign="top" align="center" width="30%">
+      <a href="https://github.com/TitasDas/desktop-drawer"><img src="https://raw.githubusercontent.com/TitasDas/desktop-drawer/main/packaging/desktop-drawer/screenshots/drawer-dark.png" alt="Desktop Drawer showing files and subfolders in the Cinnamon panel" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/desktop-drawer">Desktop Drawer</a></h3>
-      <p>Enjoy your wallpaper. Keep your files within reach.<br/><br/>A cluttered desktop makes it harder for me to focus. I built this Cinnamon applet to reach my files after tidying them into folders.<br/><br/>Public beta. <a href="https://github.com/linuxmint/cinnamon-spices-applets/pull/9060">Cinnamon Spices review pending.</a></p>
+      <p>Enjoy your wallpaper. Keep files within reach from your Cinnamon panel.<br/><br/>Public beta. <a href="https://github.com/linuxmint/cinnamon-spices-applets/pull/9060">Cinnamon Spices review pending.</a></p>
       <p><a href="https://github.com/TitasDas/desktop-drawer/releases/tag/v1.2.0">Download the beta</a><br/>
       <a href="https://github.com/TitasDas/desktop-drawer#see-how-it-works">Watch the demo</a></p>
     </td>
@@ -30,14 +30,14 @@
 
 ## Linux utilities
 
-<table>
+<table width="100%">
 <tr>
-    <td valign="top" align="center" width="230">
-      <a href="https://github.com/TitasDas/wd-hdd-unlocker"><img src="https://raw.githubusercontent.com/TitasDas/wd-hdd-unlocker/master/assets/screenshot-light-main.png" alt="WD My Passport Unlocker showing drive selection and unlock controls" width="220" /></a>
+    <td valign="top" align="center" width="30%">
+      <a href="https://github.com/TitasDas/wd-hdd-unlocker"><img src="https://raw.githubusercontent.com/TitasDas/wd-hdd-unlocker/master/assets/screenshot-light-main.png" alt="WD My Passport Unlocker showing drive selection and unlock controls" width="100%" /></a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/TitasDas/wd-hdd-unlocker">WD My Passport Unlocker</a></h3>
-      <p>Use your locked WD drive on Linux.<br/><br/>Unlock compatible My Passport drives with your password, then mount them. Includes a desktop app and a command line interface.<br/><br/>Unofficial utility. Drive compatibility varies.</p>
+      <h3><a href="https://github.com/TitasDas/wd-hdd-unlocker">WD Unlocker</a></h3>
+      <p>Unlock and mount compatible My Passport drives on Linux.<br/><br/>Desktop app and CLI. Unofficial utility.</p>
       <p><a href="https://github.com/TitasDas/wd-hdd-unlocker/releases/latest">Download for Linux</a></p>
     </td>
   </tr>
@@ -46,14 +46,14 @@
 
 ## Games
 
-<table>
+<table width="100%">
 <tr>
-    <td valign="top" align="center" width="230">
-      <a href="https://github.com/TitasDas/forced-move"><img src="https://raw.githubusercontent.com/TitasDas/forced-move/main/public/intro.jpg" alt="Forced Move illustrated game introduction" width="220" /></a>
+    <td valign="top" align="center" width="30%">
+      <a href="https://github.com/TitasDas/forced-move"><img src="https://raw.githubusercontent.com/TitasDas/forced-move/main/public/intro.jpg" alt="Forced Move illustrated game introduction" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/forced-move">Forced Move</a></h3>
-      <p>Every move changes what comes next.<br/><br/>A strategy game built around nested Tic-Tac-Toe boards. Play against the computer or invite a friend.<br/><br/>Playable preview. Feedback welcome.</p>
+      <p>Nested Tic-Tac-Toe. Each move changes your opponent's options.<br/><br/>Play the computer or a friend. Preview available.</p>
       <p><a href="https://forced-move.onrender.com/">Play Forced Move</a></p>
     </td>
   </tr>
