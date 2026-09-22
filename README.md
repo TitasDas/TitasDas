@@ -8,59 +8,45 @@ problem through implementation and release.
 
 ## Tools for focus
 
-<table>
-  <tr>
-    <td valign="top" align="center" width="250">
-      <a href="https://github.com/TitasDas/mag-reader"><img src="https://raw.githubusercontent.com/TitasDas/mag-reader/master/screenshots/desktop-dark.png" alt="Readstand with an article open in its dark reading view" width="240" /></a>
-    </td>
-    <td valign="top">
-      <h3><a href="https://github.com/TitasDas/mag-reader">Readstand</a></h3>
-      <p>Read the sources you choose. Keep what you learn.<br/><br/>Follow magazines and blogs in one place. Highlight passages, take notes and export them to Markdown.<br/><br/>Available for Chrome, the web and Linux.</p>
-      <a href="https://chromewebstore.google.com/detail/readstand/bggncidfalfcdjalkidneaoccggnilne">Install from the Chrome Web Store</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center" width="250">
-      <a href="https://github.com/TitasDas/desktop-drawer"><img src="https://raw.githubusercontent.com/TitasDas/desktop-drawer/main/packaging/desktop-drawer/screenshots/drawer-dark.png" alt="Desktop Drawer showing files and subfolders in the Cinnamon panel" width="170" /></a>
-    </td>
-    <td valign="top">
-      <h3><a href="https://github.com/TitasDas/desktop-drawer">Desktop Drawer</a></h3>
-      <p>Enjoy your wallpaper. Keep your files within reach.<br/><br/>A cluttered desktop makes it harder for me to focus. I built this Cinnamon applet to reach my files after tidying them into folders.<br/><br/>Public beta. <a href="https://github.com/linuxmint/cinnamon-spices-applets/pull/9060">Cinnamon Spices review pending.</a></p>
-      <a href="https://github.com/TitasDas/desktop-drawer/releases/tag/v1.2.0">Download the beta</a><br/>
-      <a href="https://github.com/TitasDas/desktop-drawer#see-how-it-works">Watch the demo</a>
-    </td>
-  </tr>
-</table>
+<h3><a href="https://github.com/TitasDas/mag-reader">Readstand</a></h3>
+
+<p><a href="https://github.com/TitasDas/mag-reader"><img src="https://raw.githubusercontent.com/TitasDas/mag-reader/master/screenshots/desktop-dark.png" alt="Readstand with an article open in its dark reading view" width="420" /></a></p>
+
+<p>Read the sources you choose. Keep what you learn.<br/><br/>Follow magazines and blogs in one place. Highlight passages, take notes and export them to Markdown.<br/><br/>Available for Chrome, the web and Linux.</p>
+
+<p><a href="https://chromewebstore.google.com/detail/readstand/bggncidfalfcdjalkidneaoccggnilne">Install from the Chrome Web Store</a></p>
+
+<h3><a href="https://github.com/TitasDas/desktop-drawer">Desktop Drawer</a></h3>
+
+<p><a href="https://github.com/TitasDas/desktop-drawer"><img src="https://raw.githubusercontent.com/TitasDas/desktop-drawer/main/packaging/desktop-drawer/screenshots/drawer-dark.png" alt="Desktop Drawer showing files and subfolders in the Cinnamon panel" width="170" /></a></p>
+
+<p>Enjoy your wallpaper. Keep your files within reach.<br/><br/>A cluttered desktop makes it harder for me to focus. I built this Cinnamon applet to reach my files after tidying them into folders.<br/><br/>Public beta. <a href="https://github.com/linuxmint/cinnamon-spices-applets/pull/9060">Cinnamon Spices review pending.</a></p>
+
+<p><a href="https://github.com/TitasDas/desktop-drawer/releases/tag/v1.2.0">Download the beta</a><br/>
+      <a href="https://github.com/TitasDas/desktop-drawer#see-how-it-works">Watch the demo</a></p>
+
 
 ## Linux utilities
 
-<table>
-  <tr>
-    <td valign="top" align="center" width="250">
-      <a href="https://github.com/TitasDas/wd-hdd-unlocker"><img src="https://raw.githubusercontent.com/TitasDas/wd-hdd-unlocker/master/assets/screenshot-light-main.png" alt="WD My Passport Unlocker showing drive selection and unlock controls" width="240" /></a>
-    </td>
-    <td valign="top">
-      <h3><a href="https://github.com/TitasDas/wd-hdd-unlocker">WD My Passport Unlocker</a></h3>
-      <p>Use your locked WD drive on Linux.<br/><br/>Unlock compatible My Passport drives with your password, then mount them. Includes a desktop app and a command line interface.<br/><br/>Unofficial utility. Drive compatibility varies.</p>
-      <a href="https://github.com/TitasDas/wd-hdd-unlocker/releases/latest">Download for Linux</a>
-    </td>
-  </tr>
-</table>
+<h3><a href="https://github.com/TitasDas/wd-hdd-unlocker">WD My Passport Unlocker</a></h3>
+
+<p><a href="https://github.com/TitasDas/wd-hdd-unlocker"><img src="https://raw.githubusercontent.com/TitasDas/wd-hdd-unlocker/master/assets/screenshot-light-main.png" alt="WD My Passport Unlocker showing drive selection and unlock controls" width="420" /></a></p>
+
+<p>Use your locked WD drive on Linux.<br/><br/>Unlock compatible My Passport drives with your password, then mount them. Includes a desktop app and a command line interface.<br/><br/>Unofficial utility. Drive compatibility varies.</p>
+
+<p><a href="https://github.com/TitasDas/wd-hdd-unlocker/releases/latest">Download for Linux</a></p>
+
 
 ## Games
 
-<table>
-  <tr>
-    <td valign="top" align="center" width="250">
-      <a href="https://github.com/TitasDas/forced-move"><img src="https://raw.githubusercontent.com/TitasDas/forced-move/main/public/intro.jpg" alt="Forced Move illustrated game introduction" width="240" /></a>
-    </td>
-    <td valign="top">
-      <h3><a href="https://github.com/TitasDas/forced-move">Forced Move</a></h3>
-      <p>Every move changes what comes next.<br/><br/>A strategy game built around nested Tic-Tac-Toe boards. Play against the computer or invite a friend.<br/><br/>Playable preview. Feedback welcome.</p>
-      <a href="https://forced-move.onrender.com/">Play Forced Move</a>
-    </td>
-  </tr>
-</table>
+<h3><a href="https://github.com/TitasDas/forced-move">Forced Move</a></h3>
+
+<p><a href="https://github.com/TitasDas/forced-move"><img src="https://raw.githubusercontent.com/TitasDas/forced-move/main/public/intro.jpg" alt="Forced Move illustrated game introduction" width="420" /></a></p>
+
+<p>Every move changes what comes next.<br/><br/>A strategy game built around nested Tic-Tac-Toe boards. Play against the computer or invite a friend.<br/><br/>Playable preview. Feedback welcome.</p>
+
+<p><a href="https://forced-move.onrender.com/">Play Forced Move</a></p>
+
 
 ## Engineering experience
 
