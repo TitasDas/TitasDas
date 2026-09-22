@@ -13,7 +13,8 @@
       <a href="https://github.com/TitasDas/desktop-drawer"><b>Desktop Drawer</b></a><br/>
       Enjoy your wallpaper. Keep your files within reach.<br/>
       A cluttered desktop makes it harder for me to focus. I built this Cinnamon applet to reach my files after tidying them into folders.<br/>
-      <a href="https://github.com/TitasDas/desktop-drawer/releases/tag/v1.2.0">Download the beta</a> · <a href="https://github.com/linuxmint/cinnamon-spices-applets/pull/9060">Cinnamon Spices review</a>
+      <a href="https://github.com/TitasDas/desktop-drawer/releases/tag/v1.2.0">Download the beta</a><br/>
+      <a href="https://github.com/linuxmint/cinnamon-spices-applets/pull/9060">Cinnamon Spices review</a>
     </td>
   </tr>
 
