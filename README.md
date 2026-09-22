@@ -5,6 +5,20 @@
 <table>
   <tr>
     <td valign="top" width="280">
+      <a href="https://github.com/TitasDas/desktop-drawer">
+        <img src="https://raw.githubusercontent.com/TitasDas/desktop-drawer/main/docs/media/desktop-drawer-demo.gif" alt="Desktop Drawer browsing folders from the Cinnamon panel" width="260" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/TitasDas/desktop-drawer"><b>Desktop Drawer</b></a><br/>
+      Enjoy your wallpaper. Keep your files within reach.<br/>
+      A cluttered desktop makes it harder for me to focus. I built this Cinnamon applet to reach my files after tidying them into folders.<br/>
+      <a href="https://github.com/TitasDas/desktop-drawer/releases/tag/v1.2.0">Download the beta</a> · <a href="https://github.com/linuxmint/cinnamon-spices-applets/pull/9060">Cinnamon Spices review</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="280">
       <a href="https://github.com/TitasDas/mag-reader">
         <img src="https://raw.githubusercontent.com/TitasDas/mag-reader/master/screenshots/desktop-dark.png" width="260" />
       </a>
