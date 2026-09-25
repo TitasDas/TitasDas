@@ -54,12 +54,13 @@ My software lives at <a href="https://implantintelligence.com">Implant Intellige
 <table width="100%">
 <tr>
     <td valign="top" align="center" width="42%">
-      <a href="https://github.com/TitasDas/forced-move"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/forced-move.png" alt="Forced Move: nested tic-tac-toe where every move changes your opponent's options" width="100%" /></a>
+      <a href="https://implantintelligence.com/p/forced-move#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/forced-move-teaser.gif" alt="Forced Move walkthrough: placing a mark, then choosing the two squares the opponent must use" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/forced-move">Forced Move</a></h3>
       <p>Nested Tic-Tac-Toe. Each move changes your opponent's options.<br/><br/>Play the computer or a friend. Preview available.</p>
-      <p><a href="https://forced-move.onrender.com/">Play Forced Move</a><br/>
+      <p><a href="https://implantintelligence.com/p/forced-move#usage-demo">Watch the walkthrough</a><br/>
+      <a href="https://forced-move.onrender.com/">Play Forced Move</a><br/>
       <a href="https://implantintelligence.com/p/forced-move">On Implant Intelligence</a></p>
     </td>
   </tr>
