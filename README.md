@@ -7,12 +7,13 @@ My software lives at <a href="https://implantintelligence.com">Implant Intellige
 <table width="100%">
 <tr>
     <td valign="top" align="center" width="42%">
-      <a href="https://github.com/TitasDas/mag-reader"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/readstand.png" alt="Readstand: follow magazines and blogs, keep highlights and notes as Markdown" width="100%" /></a>
+      <a href="https://implantintelligence.com/p/readstand#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/readstand-teaser.gif" alt="Readstand walkthrough: saving a passage as a highlight while reading" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/mag-reader">Readstand</a></h3>
       <p>Follow your chosen magazines and blogs. Save highlights and notes to Markdown.<br/><br/>Chrome, web and Linux.</p>
-      <p><a href="https://implantintelligence.com/p/readstand">On Implant Intelligence</a><br/>
+      <p><a href="https://implantintelligence.com/p/readstand#usage-demo">Watch the walkthrough</a><br/>
+      <a href="https://implantintelligence.com/p/readstand">On Implant Intelligence</a><br/>
       <a href="https://chromewebstore.google.com/detail/readstand/bggncidfalfcdjalkidneaoccggnilne">Install for Chrome</a></p>
     </td>
   </tr>
