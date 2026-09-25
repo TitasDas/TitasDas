@@ -4,8 +4,8 @@
 
 <table width="100%">
 <tr>
-    <td valign="top" align="center" width="30%">
-      <a href="https://github.com/TitasDas/mag-reader"><img src="https://raw.githubusercontent.com/TitasDas/mag-reader/master/screenshots/desktop-dark.png" alt="Readstand with an article open in its dark reading view" width="100%" /></a>
+    <td valign="top" align="center" width="42%">
+      <a href="https://github.com/TitasDas/mag-reader"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/readstand.png" alt="Readstand: follow magazines and blogs, keep highlights and notes as Markdown" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/mag-reader">Readstand</a></h3>
@@ -15,8 +15,8 @@
   </tr>
 
   <tr>
-    <td valign="top" align="center" width="30%">
-      <a href="https://github.com/TitasDas/desktop-drawer"><img src="https://raw.githubusercontent.com/TitasDas/desktop-drawer/main/packaging/desktop-drawer/screenshots/drawer-dark.png" alt="Desktop Drawer showing files and subfolders in the Cinnamon panel" width="100%" /></a>
+    <td valign="top" align="center" width="42%">
+      <a href="https://github.com/TitasDas/desktop-drawer"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/desktop-drawer.png" alt="Desktop Drawer: files and folders within reach from the Cinnamon panel" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/desktop-drawer">Desktop Drawer</a></h3>
@@ -32,8 +32,8 @@
 
 <table width="100%">
 <tr>
-    <td valign="top" align="center" width="30%">
-      <a href="https://github.com/TitasDas/wd-hdd-unlocker"><img src="https://raw.githubusercontent.com/TitasDas/wd-hdd-unlocker/master/assets/screenshot-light-drive-locked.png" alt="WD My Passport Linux Unlocker showing a locked drive with unlock, open and eject actions" width="100%" /></a>
+    <td valign="top" align="center" width="42%">
+      <a href="https://github.com/TitasDas/wd-hdd-unlocker"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/wd-hdd-unlocker.png" alt="WD My Passport Linux Unlocker: unlock, copy files, set the password, format and eject" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/wd-hdd-unlocker">WD My Passport Linux Unlocker</a></h3>
@@ -48,8 +48,8 @@
 
 <table width="100%">
 <tr>
-    <td valign="top" align="center" width="30%">
-      <a href="https://github.com/TitasDas/forced-move"><img src="https://raw.githubusercontent.com/TitasDas/forced-move/main/public/intro.jpg" alt="Forced Move illustrated game introduction" width="100%" /></a>
+    <td valign="top" align="center" width="42%">
+      <a href="https://github.com/TitasDas/forced-move"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/forced-move.png" alt="Forced Move: nested tic-tac-toe where every move changes your opponent's options" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/forced-move">Forced Move</a></h3>
