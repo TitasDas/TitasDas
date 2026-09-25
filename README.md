@@ -1,5 +1,7 @@
 <h2>Hi, I'm Titash </h2>
 
+My software lives at <a href="https://implantintelligence.com">Implant Intelligence</a>. Each product below links to its page there.
+
 ## Tools for focus
 
 <table width="100%">
@@ -10,7 +12,8 @@
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/mag-reader">Readstand</a></h3>
       <p>Follow your chosen magazines and blogs. Save highlights and notes to Markdown.<br/><br/>Chrome, web and Linux.</p>
-      <p><a href="https://chromewebstore.google.com/detail/readstand/bggncidfalfcdjalkidneaoccggnilne">Install for Chrome</a></p>
+      <p><a href="https://implantintelligence.com/p/readstand">On Implant Intelligence</a><br/>
+      <a href="https://chromewebstore.google.com/detail/readstand/bggncidfalfcdjalkidneaoccggnilne">Install for Chrome</a></p>
     </td>
   </tr>
 
@@ -33,12 +36,14 @@
 <table width="100%">
 <tr>
     <td valign="top" align="center" width="42%">
-      <a href="https://github.com/TitasDas/wd-hdd-unlocker"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/wd-hdd-unlocker.png" alt="WD My Passport Linux Unlocker: unlock, copy files, set the password, format and eject" width="100%" /></a>
+      <a href="https://implantintelligence.com/p/wd-hdd-unlocker#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/wd-hdd-unlocker-teaser.gif" alt="WD My Passport Linux Unlocker: unlock, copy files, set the password, format and eject" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/wd-hdd-unlocker">WD My Passport Linux Unlocker</a></h3>
       <p>WD Security for Linux: unlock, copy files, set or change the password, format, eject and erase.<br/><br/>Desktop app, CLI and .deb package. Unofficial utility.</p>
-      <p><a href="https://github.com/TitasDas/wd-hdd-unlocker/releases/latest">Download for Linux</a></p>
+      <p><a href="https://implantintelligence.com/p/wd-hdd-unlocker#usage-demo">Watch the walkthrough</a><br/>
+      <a href="https://implantintelligence.com/p/wd-hdd-unlocker">On Implant Intelligence</a><br/>
+      <a href="https://github.com/TitasDas/wd-hdd-unlocker/releases/latest">Download for Linux</a></p>
     </td>
   </tr>
 </table>
@@ -54,7 +59,8 @@
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/forced-move">Forced Move</a></h3>
       <p>Nested Tic-Tac-Toe. Each move changes your opponent's options.<br/><br/>Play the computer or a friend. Preview available.</p>
-      <p><a href="https://forced-move.onrender.com/">Play Forced Move</a></p>
+      <p><a href="https://forced-move.onrender.com/">Play Forced Move</a><br/>
+      <a href="https://implantintelligence.com/p/forced-move">On Implant Intelligence</a></p>
     </td>
   </tr>
 </table>
