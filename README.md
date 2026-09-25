@@ -33,6 +33,23 @@ My software lives at <a href="https://implantintelligence.com">Implant Intellige
 </table>
 
 
+## Privacy
+
+<table width="100%">
+<tr>
+    <td valign="top" align="center" width="42%">
+      <a href="https://implantintelligence.com/p/privacy-switch#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/privacy-switch-walkthrough.gif" alt="Privacy Switch: Chrome privacy settings in one switch, and the Learning Monitor showing who a page talked to" width="100%" /></a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://implantintelligence.com/p/privacy-switch">Privacy Switch</a></h3>
+      <p>Chrome's privacy settings in one switch. The Learning Monitor shows what each page does, in plain English.<br/><br/>Chrome extension. Free while it launches.</p>
+      <p><a href="https://implantintelligence.com/p/privacy-switch#usage-demo">Watch the film</a><br/>
+      <a href="https://implantintelligence.com/p/privacy-switch#learning-monitor">Watch the Learning Monitor tutorial</a><br/>
+      <a href="https://implantintelligence.com/p/privacy-switch">On Implant Intelligence</a></p>
+    </td>
+  </tr>
+</table>
+
 ## Linux utilities
 
 <table width="100%">

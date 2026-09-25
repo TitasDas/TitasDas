@@ -163,3 +163,16 @@ elif which == 'rs':
              ('Export notes to Markdown', clip(47.5, 52.5)),
              ('Map what you learn', clip(81.5, 88.0))]
     build(cfg, beats, f'{HERE}/rs-teaser.gif')
+
+elif which == 'ps':
+    # Captures from privacy-switch/tools/walkthrough/capture.mjs (2x device scale).
+    C = os.environ.get('PS_CAPS', '/home/td/work/privacy-switch/tools/walkthrough/caps') + '/'
+    cfg = dict(band=(18, 15, 36), accent=(125, 91, 214), font=font('WorkSans-Bold.ttf', 44), name='Privacy Switch', value='A little less shared.',
+               name_font=font('YoungSerif-Regular.ttf', 64), value_font=font('WorkSans-Regular.ttf', 32), cta='Watch the film', cta_font=font('WorkSans-Bold.ttf', 28),
+               logo='/home/td/work/privacy-switch/dist/icons/128.png')
+    beats = [('Chrome privacy, one switch', still(C + 'popup-on.png', (0, 40, 800, 503), zoom=(1.0, 1.04))),
+             ('See who a page talks to', still(C + 'panel-addresses.png', (0, 150, 800, 613), zoom=(1.0, 1.04))),
+             ('Explained in plain English', still(C + 'panel-explain.png', (0, 60, 800, 523), zoom=(1.0, 1.04))),
+             ('Block it on one site', still(C + 'panel-blocked.png', (0, 150, 800, 613), zoom=(1.0, 1.04))),
+             ('Then check it worked', still(C + 'panel-cleared.png', (0, 380, 800, 843), zoom=(1.0, 1.04)))]
+    build(cfg, beats, f'{HERE}/ps-teaser.gif')
