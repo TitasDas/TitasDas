@@ -1,6 +1,6 @@
 <h2>Hi, I'm Titash </h2>
 
-My software lives at <a href="https://implantintelligence.com">Implant Intelligence</a>. Each product below links to its page there.
+My software lives at <a href="https://implantintelligence.com">Implant Intelligence</a>. Each product below links to its page there, with a short walkthrough video.
 
 ## Tools for focus
 
@@ -20,13 +20,14 @@ My software lives at <a href="https://implantintelligence.com">Implant Intellige
 
   <tr>
     <td valign="top" align="center" width="42%">
-      <a href="https://github.com/TitasDas/desktop-drawer"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/desktop-drawer.png" alt="Desktop Drawer: files and folders within reach from the Cinnamon panel" width="100%" /></a>
+      <a href="https://implantintelligence.com/p/desktop-drawer#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/desktop-drawer-teaser.gif" alt="Desktop Drawer walkthrough: a cluttered desktop tidies into the panel, then the drawer opens" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/desktop-drawer">Desktop Drawer</a></h3>
       <p>Enjoy your wallpaper. Keep files within reach from your Cinnamon panel.<br/><br/>Public beta. <a href="https://github.com/linuxmint/cinnamon-spices-applets/pull/9060">Cinnamon Spices review pending.</a></p>
-      <p><a href="https://github.com/TitasDas/desktop-drawer/releases/tag/v1.2.0">Download the beta</a><br/>
-      <a href="https://github.com/TitasDas/desktop-drawer#see-how-it-works">Watch the demo</a></p>
+      <p><a href="https://implantintelligence.com/p/desktop-drawer#usage-demo">Watch the walkthrough</a><br/>
+      <a href="https://implantintelligence.com/p/desktop-drawer">On Implant Intelligence</a><br/>
+      <a href="https://github.com/TitasDas/desktop-drawer/releases/tag/v1.2.0">Download the beta</a></p>
     </td>
   </tr>
 </table>
