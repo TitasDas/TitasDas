@@ -33,11 +33,11 @@
 <table width="100%">
 <tr>
     <td valign="top" align="center" width="30%">
-      <a href="https://github.com/TitasDas/wd-hdd-unlocker"><img src="https://raw.githubusercontent.com/TitasDas/wd-hdd-unlocker/master/assets/screenshot-light-main.png" alt="WD My Passport Unlocker showing drive selection and unlock controls" width="100%" /></a>
+      <a href="https://github.com/TitasDas/wd-hdd-unlocker"><img src="https://raw.githubusercontent.com/TitasDas/wd-hdd-unlocker/master/assets/screenshot-light-drive-locked.png" alt="WD My Passport Linux Unlocker showing a locked drive with unlock, open and eject actions" width="100%" /></a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/TitasDas/wd-hdd-unlocker">WD Unlocker</a></h3>
-      <p>Unlock and mount compatible My Passport drives on Linux.<br/><br/>Desktop app and CLI. Unofficial utility.</p>
+      <h3><a href="https://github.com/TitasDas/wd-hdd-unlocker">WD My Passport Linux Unlocker</a></h3>
+      <p>WD Security for Linux: unlock, copy files, set or change the password, format, eject and erase.<br/><br/>Desktop app, CLI and .deb package. Unofficial utility.</p>
       <p><a href="https://github.com/TitasDas/wd-hdd-unlocker/releases/latest">Download for Linux</a></p>
     </td>
   </tr>
