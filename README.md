@@ -7,7 +7,7 @@ My software lives at <a href="https://implantintelligence.com">Implant Intellige
 <table width="100%">
 <tr>
     <td valign="top" align="center" width="42%">
-      <a href="https://implantintelligence.com/p/readstand#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/readstand-teaser.gif" alt="Readstand walkthrough: saving a passage as a highlight while reading" width="100%" /></a>
+      <a href="https://implantintelligence.com/p/readstand#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/readstand-walkthrough.gif" alt="Readstand: follow the sites you choose, read without clutter, save the lines that matter" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/mag-reader">Readstand</a></h3>
@@ -20,7 +20,7 @@ My software lives at <a href="https://implantintelligence.com">Implant Intellige
 
   <tr>
     <td valign="top" align="center" width="42%">
-      <a href="https://implantintelligence.com/p/desktop-drawer#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/desktop-drawer-teaser.gif" alt="Desktop Drawer walkthrough: a cluttered desktop tidies into the panel, then the drawer opens" width="100%" /></a>
+      <a href="https://implantintelligence.com/p/desktop-drawer#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/desktop-drawer-walkthrough.gif" alt="Desktop Drawer: tidy a cluttered desktop into the Cinnamon panel and enjoy your wallpaper" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/desktop-drawer">Desktop Drawer</a></h3>
@@ -38,7 +38,7 @@ My software lives at <a href="https://implantintelligence.com">Implant Intellige
 <table width="100%">
 <tr>
     <td valign="top" align="center" width="42%">
-      <a href="https://implantintelligence.com/p/wd-hdd-unlocker#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/wd-hdd-unlocker-teaser.gif" alt="WD My Passport Linux Unlocker: unlock, copy files, set the password, format and eject" width="100%" /></a>
+      <a href="https://implantintelligence.com/p/wd-hdd-unlocker#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/wd-hdd-unlocker-walkthrough.gif" alt="WD My Passport Linux Unlocker: unlock, copy files, set the password, format and eject" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/wd-hdd-unlocker">WD My Passport Linux Unlocker</a></h3>
@@ -56,7 +56,7 @@ My software lives at <a href="https://implantintelligence.com">Implant Intellige
 <table width="100%">
 <tr>
     <td valign="top" align="center" width="42%">
-      <a href="https://implantintelligence.com/p/forced-move#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/forced-move-teaser.gif" alt="Forced Move walkthrough: placing a mark, then choosing the two squares the opponent must use" width="100%" /></a>
+      <a href="https://implantintelligence.com/p/forced-move#usage-demo"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/forced-move-walkthrough.gif" alt="Forced Move: tic-tac-toe where your move limits your opponent's next one" width="100%" /></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/TitasDas/forced-move">Forced Move</a></h3>
