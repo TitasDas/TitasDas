@@ -101,7 +101,7 @@ if which == 'wd':
     C = f'{HERE}/caps/'; box = (0, 0, 1080, 626)
     cfg = dict(band=(15, 30, 51), accent=(31, 95, 191), font=font('Outfit-Bold.ttf', 44), name='WD My Passport', value='Unlocker for Linux',
                name_font=font('Outfit-Bold.ttf', 50), value_font=font('Outfit-Regular.ttf', 34), cta='Watch the walkthrough', cta_font=font('Outfit-Bold.ttf', 28),
-               logo='~/work/wd-hdd-unlocker/assets/brand/icon-128.png')
+               logo=os.path.expanduser('~/work/wd-hdd-unlocker/assets/brand/icon-128.png'))
     typing = [f'{C}02-unlock-empty.png'] + [f'{C}03-typing-{i:02d}.png' for i in range(1, 10)]
     beats = [('Locked WD drive?', still(C + '01-drive-locked.png', (230, 80, 1080, 572), zoom=(1.0, 1.05))),
              ('Unlock it on Linux', seqs(typing, (110, 90, 710, 438))),
@@ -139,7 +139,7 @@ elif which == 'dd':
         return [crop_to(keyed(t0 + (t1 - t0) * i / (BEAT - 1)), b) for i in range(BEAT)]
     cfg = dict(band=(38, 26, 20), accent=(232, 140, 92), font=font('BricolageGrotesque-Bold.ttf', 46), name='Desktop Drawer', value='Enjoy your wallpaper',
                name_font=font('BricolageGrotesque-Bold.ttf', 58), value_font=font('WorkSans-Regular.ttf', 32), cta='Watch it in action', cta_font=font('BricolageGrotesque-Bold.ttf', 28),
-               logo='~/work/desktop-drawer-public/desktop/applet/desktop-drawer@linux-automations/icon.png')
+               logo=os.path.expanduser('~/work/desktop-drawer-public/desktop/applet/desktop-drawer@linux-automations/icon.png'))
     intro = [crop_to(Image.open(f'{R}frames/{k:05d}.png').convert('RGB'), (0, 0, 1280, 960)) for k in range(46, 46 + BEAT * 2, 2)]
     beats = [('Desktop full of files?', [crop_to(Image.open(f'{R}frames/00002.png').convert('RGB'), (0, 0, 1280, 960))] * 6 + intro[:BEAT - 6]),
              ('Tidy them into the panel', intro),
@@ -155,7 +155,7 @@ elif which == 'rs':
         return [crop_to(Image.open(f'{R}f{int((t0 + (t1 - t0) * i / (BEAT - 1)) * 10) + 1:05d}.png').convert('RGB'), b) for i in range(BEAT)]
     cfg = dict(band=(122, 44, 16), accent=(232, 128, 72), font=font('InstrumentSans-Bold.ttf', 44), name='Readstand', value='Read on purpose. Keep what you learn.',
                name_font=font('InstrumentSerif-Regular.ttf', 72), value_font=font('InstrumentSans-Regular.ttf', 30), cta='Watch the walkthrough', cta_font=font('InstrumentSans-Bold.ttf', 28),
-               logo='~/work/software-shop-wd-unlocker/public/media/readstand/icon.png')
+               logo=os.path.expanduser('~/work/software-shop-wd-unlocker/public/media/readstand/icon.png'))
     beats = [('Follow the sites you choose', clip(7.0, 10.8)),
              ('Read without clutter', clip(14.5, 19.8)),
              ('Pick up where you left off', clip(23.0, 28.8)),
@@ -166,10 +166,10 @@ elif which == 'rs':
 
 elif which == 'ps':
     # Captures from privacy-switch/tools/walkthrough/capture.mjs (2x device scale).
-    C = os.environ.get('PS_CAPS', '~/work/privacy-switch/tools/walkthrough/caps') + '/'
+    C = os.environ.get('PS_CAPS', os.path.expanduser('~/work/privacy-switch/tools/walkthrough/caps')) + '/'
     cfg = dict(band=(18, 15, 36), accent=(125, 91, 214), font=font('WorkSans-Bold.ttf', 44), name='Privacy Switch', value='A little less shared.',
                name_font=font('YoungSerif-Regular.ttf', 64), value_font=font('WorkSans-Regular.ttf', 32), cta='Watch the film', cta_font=font('WorkSans-Bold.ttf', 28),
-               logo='~/work/privacy-switch/dist/icons/128.png')
+               logo=os.path.expanduser('~/work/privacy-switch/dist/icons/128.png'))
     beats = [('Chrome privacy, one switch', still(C + 'popup-on.png', (0, 40, 800, 503), zoom=(1.0, 1.04))),
              ('See who a page talks to', still(C + 'panel-addresses.png', (0, 150, 800, 613), zoom=(1.0, 1.04))),
              ('Explained in plain English', still(C + 'panel-explain.png', (0, 60, 800, 523), zoom=(1.0, 1.04))),
