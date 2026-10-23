@@ -6,7 +6,7 @@ product below, a closing card that asks for the click.
 import json, os, subprocess, sys
 from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageChops
 
-FONTS = os.path.expanduser('~/.claude/skills/canvas-design/canvas-fonts/')
+FONTS = os.environ.get('TEASER_FONTS', os.path.expanduser('~/.claude/skills/canvas-design/canvas-fonts/')).rstrip('/') + '/'
 TW, TH, BAND = 656, 492, 112
 FPS = 10; BEAT = 17; XF = 3
 
@@ -176,3 +176,27 @@ elif which == 'ps':
              ('Block it on one site', still(C + 'panel-blocked.png', (0, 150, 800, 613), zoom=(1.0, 1.04))),
              ('Then check it worked', still(C + 'panel-cleared.png', (0, 380, 800, 843), zoom=(1.0, 1.04)))]
     build(cfg, beats, f'{HERE}/ps-teaser.gif')
+
+elif which == 'dz':
+    # Cut from the trailer (dave-zero-night-shift/release/trailer.mp4, 1280x720). World shots
+    # sit at y 40 to 680; full scenes are 1152 wide, centred.
+    T = os.environ.get('DZ_TRAILER', os.path.expanduser('~/work/dave-zero-night-shift/release/trailer.mp4'))
+    R = f'{HERE}/dz/'; os.makedirs(R, exist_ok=True)
+    def at(t):
+        f = f'{R}{int(round(t * 10)):05d}.png'
+        if not os.path.exists(f):
+            subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', f'{t:.2f}', '-i', T, '-frames:v', '1', f], check=True)
+        return Image.open(f).convert('RGB')
+    world, scene = (88, 40, 1192, 680), (64, 20, 1216, 687)
+    def clip(t0, t1, b=world):
+        return [crop_to(at(t0 + (t1 - t0) * i / (BEAT - 1)), b) for i in range(BEAT)]
+    cfg = dict(band=(20, 22, 40), accent=(242, 102, 98), font=font('PixelifySans-Medium.ttf', 44), name='Dave Zero', value='Switch off the high street',
+               name_font=font('PixelifySans-Medium.ttf', 72), value_font=font('WorkSans-Regular.ttf', 32), cta='Play free on itch.io', cta_font=font('WorkSans-Bold.ttf', 28),
+               logo=os.path.expanduser('~/work/dave-zero-night-shift/public/brand/favicon.png'))
+    beats = [('The bills went mad', clip(15.6, 19.0)),
+             ('Find the waste, shut it off', clip(52.4, 56.6)),
+             ('Every site has a boss', clip(67.6, 71.4)),
+             ('Twenty crewmates hidden', clip(32.0, 35.4)),
+             ('Lights on where people are', clip(94.0, 101.0, scene)),
+             ('Meet the Night Shift', [crop_to(at(103.0), scene)] * BEAT)]
+    build(cfg, beats, f'{HERE}/dz-teaser.gif')

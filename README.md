@@ -83,6 +83,18 @@ My software lives at <a href="https://implantintelligence.com">Implant Intellige
       <a href="https://implantintelligence.com/p/forced-move">On Implant Intelligence</a></p>
     </td>
   </tr>
+
+  <tr>
+    <td valign="top" align="center" width="42%">
+      <a href="https://youtu.be/z1eK9X7aU_Y"><img src="https://raw.githubusercontent.com/TitasDas/TitasDas/main/assets/dave-zero-walkthrough.gif" alt="Dave Zero: a pixel platformer about switching off the waste in a high street at night" width="100%" /></a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://titasdas.itch.io/dave-zero">Dave Zero</a></h3>
+      <p>A pixel platformer in the spirit of Dangerous Dave. Save the high street through a winter energy crisis by finding the waste and switching it off.<br/><br/>Free in the browser, on keyboard or touch.</p>
+      <p><a href="https://titasdas.itch.io/dave-zero">Play on itch.io</a><br/>
+      <a href="https://youtu.be/z1eK9X7aU_Y">Watch the trailer</a></p>
+    </td>
+  </tr>
 </table>
 
 <details>
